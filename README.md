@@ -104,7 +104,7 @@ It is created using the **C programming Language** and it can do many functional
 You can try our shell by following these steps:
 > **Step 1:** Clone our repository using this command, (you need to have git installed on your machine first)
 ````
-git clone https://github.com/tecnophille/simple_shell
+git clone https://github.com/mdahwireng/simple_shell
 ````
 > **Step 2:** Change directory to simple_shell:
 ````
@@ -154,9 +154,7 @@ ubunto@ubuntu:~/OS/simple_shell$
 No known Bugs.
 
 ## TEAM
-[GitHub/jane]: <https://github.com/jayne-0>
-[GitHub/mariem]: <https://github.com/tecnophille>
-[Twitter/janeizzy240]: <https://twitter.com/janeizzy240>
-[Twitter/Tecnophille]: <https://twitter.com/tecnophille>
+[GitHub/mdahwireng](https://github.com/mdahwireng) </br>
+[Twitter/mdahwireng](https://twitter.com/mdahwireng)
 
 
